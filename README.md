@@ -33,7 +33,7 @@ Committed to continuous learning and growth, currently focused on expanding know
 ## Links
 - Email: [muturidavid854@gmail.com](mailto:muturidavid854@gmail.com)
 - LinkedIn: [linkedin.com/in/tushdev](https://linkedin.com/in/tushdev)
-- GitHub: [github.com/your_username](https://github.com/tushcmd)
+- GitHub: [github.com/tushcmd](https://github.com/tushcmd)
 - Website: [tushdev.co](https://tushdev.co)
 
 <!--
