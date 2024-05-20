@@ -1,5 +1,3 @@
-
-![muturi](https://github.com/tushcmd/tushcmd/assets/78159338/cf36d87c-0328-4650-8c1a-1fb00dc7710e)
 # Muturi David - Software Engineer
 
 ## 🚀 About Me
