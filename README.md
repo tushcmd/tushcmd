@@ -14,7 +14,7 @@ My goal is to create software that's used by millions.
 
 ### Backend
 - Node.js, Express.js
-- MongoDB, PostgreSQL, Prisma ORM, Next Auth
+- MongoDB, PostgreSQL, Prisma ORM, Next Auth, Docker
 
 ### Design
 - Figma, UI/UX design principles
