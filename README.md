@@ -27,9 +27,12 @@ My goal is to create software that's used by millions.
 ## Continued Professional Development
 
 Committed to continuous learning and growth, currently focused on expanding knowledge in:
+- Rust
+- Pinecone
 - Langchain
 - DevOps concepts
-- Rust
+- Roboflow
+- Shopify plugins
 ## Links
 - Email: [muturidavid854@gmail.com](mailto:muturidavid854@gmail.com)
 - LinkedIn: [linkedin.com/in/tushdev](https://linkedin.com/in/tushdev)
