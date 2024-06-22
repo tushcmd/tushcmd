@@ -31,6 +31,7 @@ Committed to continuous learning and growth, currently focused on expanding know
 - Pinecone
 - Langchain
 - DevOps concepts
+- AWS
 - Roboflow
 - Shopify plugins
 ## Links
