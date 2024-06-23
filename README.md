@@ -1,5 +1,7 @@
 # Muturi David - Software Engineer
 
+![](https://komarev.com/ghpvc/?username=tushcmd&style=for-the-badge&color=brightgreen)
+
 ## 🚀 About Me
 I'm a passionate software engineer with a strong background in creating sleek and reliable web applications. Skilled in modern frontend and backend technologies, with a keen eye for design and user experience. Committed to building scalable, high-performance products that solve real-world problems and benefit humanity.
 
