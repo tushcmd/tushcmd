@@ -1,5 +1,5 @@
 ### `Muturi David` - Software Engineer 🛸
 
-![](https://komarev.com/ghpvc/?username=tushcmd&style=for-the-badge&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=tushcmd&style=flat&color=brightgreen)
 
 
